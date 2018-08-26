@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutors Point</string>
+    <string name="sign_in_as_teacher">Sign In As Teacher</string>
+    <string name="sign_up_as_teacher">Sign Up As Teacher</string>
+    <string name="post_for_tution">Post For Tution</string>
+    <string name="about_us">About Us</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<item
+    android:id="@+id/sign_in_as_teacher"
+    android:title="@string/sign_in_as_teacher"
+    app:showAsAction="never"
+    ></item>
+    <item
+        android:id="@+id/sign_up_as_teacher"
+        android:title="@string/sign_up_as_teacher"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/post_for_tution"
+        android:title="@string/post_for_tution"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/about_us"
+        android:title="@string/about_us"
+        app:showAsAction="never"
+        ></item>
+</menu>
